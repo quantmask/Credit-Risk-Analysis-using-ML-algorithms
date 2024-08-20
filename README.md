@@ -69,3 +69,7 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 ## Acknowledgements
 
 -  Dr. Sukanta Halder, Assistant Professor, Department of Electrical Engineering, I.I.T (I.S.M) Dhanbaad for guidance and mentorship.
+
+### Contact
+
+For any questions or issues, please contact tanmaychaturvedimgs@gmail.com or open an issue on the GitHub repository.
