@@ -63,6 +63,8 @@ This data has been attained from a kaggle notebook “Loan Prediction Based on C
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
 
+## License
+This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
 
 ## Acknowledgements
 
