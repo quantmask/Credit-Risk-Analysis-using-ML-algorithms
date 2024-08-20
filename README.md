@@ -32,7 +32,7 @@ Unlock the power of machine learning to predict non-performing loans! This proje
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/Credit Risk Analysis using ML algorithms.git
-   cd LoanRiskML
+   cd Credit Risk Analysis using ML algorithms
    ```
 
 2. **Create a Virtual Environment:**
